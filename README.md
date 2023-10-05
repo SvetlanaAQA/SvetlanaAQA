@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SvetlanaAQA
-- 👀 I’m interested in Automation with Python Selenium
+- 👀 I’m interested in Automation with Python Selenium and Web Manual Testing
 - 🌱 I’m currently learning Automation and Manual testing
 - 💞️ I’m looking to collaborate on Automation and Manual testing
 - 📫 How to reach me www.linkedin.com/in/svetlanapulucciu
